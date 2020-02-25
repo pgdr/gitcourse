@@ -3,7 +3,7 @@ second branch adds this line
 the second line
 and a third
 
-and maybe a MASTER CHANGES TOO second paragraph
+and maybe a MASTER CHANGES TOO & FROM THIRD second paragraph
 of two lines
 
 Let's add a third paragraph.
