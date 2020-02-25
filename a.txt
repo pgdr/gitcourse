@@ -1,4 +1,4 @@
-Line 1 of a file
+Line one of this file
 the second line
 and a third
 
