@@ -10,4 +10,5 @@ This third paragraph contains much
 of interest.
 
 The fourth paragraph was made
+line added in master!
 from a branch.
