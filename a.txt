@@ -8,3 +8,6 @@ of two lines
 Let's add a third paragraph.
 This third paragraph contains much
 of interest.
+
+The fourth paragraph was made
+from a branch.
