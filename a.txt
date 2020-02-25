@@ -4,3 +4,5 @@ and a third
 
 and maybe a second paragraph
 of two lines
+
+Let's add a third paragraph.
