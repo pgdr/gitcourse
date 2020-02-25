@@ -6,3 +6,5 @@ and maybe a second paragraph
 of two lines
 
 Let's add a third paragraph.
+This third paragraph contains much
+of interest.
